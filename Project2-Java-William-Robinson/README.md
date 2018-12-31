@@ -1,3 +1,5 @@
+<h1>Project2-Java-William-Robinson</h1>
+
 Trivia Townes provides a real-time, competitive multiplayer trivia experience. 
 Users have the ability to join existing game lobbies or create a custom game lobby. 
 Created lobbies can then be found by other users on the server lobby page. 
