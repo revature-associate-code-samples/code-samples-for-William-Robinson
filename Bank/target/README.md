@@ -1,3 +1,5 @@
+<h1>Bank</h1>
+
 Create a Banking app where your user communicates with your app through the 
 console A user is able to create an account A user is able to log in and 
 log out(end interaction with the app and have transaction persisted) 
