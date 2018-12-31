@@ -1,3 +1,5 @@
+<h1>Caliber</h1>
+
 Caliber is a software tool used by trainers to evaluate and monitor 
 the progress of trainees at Revature. This particular project 
 involved migrating from AngularJS platform on the front-end to 
